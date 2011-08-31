@@ -10,3 +10,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/vim-scripts/SuperTab.git
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/better-css-syntax"]
+	path = bundle/better-css-syntax
+	url = https://github.com/vim-scripts/Better-CSS-Syntax-for-Vim.git
