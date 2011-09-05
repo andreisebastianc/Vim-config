@@ -16,3 +16,6 @@
 [submodule "bundle/better-css-syntax"]
 	path = bundle/better-css-syntax
 	url = https://github.com/vim-scripts/Better-CSS-Syntax-for-Vim.git
+[submodule "vim-cucumber"]
+	path = vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
