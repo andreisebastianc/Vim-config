@@ -19,3 +19,6 @@
 [submodule "vim-cucumber"]
 	path = vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
+[submodule "vim-haml"]
+	path = vim-haml
+	url = https://github.com/tpope/vim-haml.git
