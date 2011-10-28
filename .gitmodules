@@ -22,3 +22,6 @@
 [submodule "vim-haml"]
 	path = vim-haml
 	url = https://github.com/tpope/vim-haml.git
+[submodule "bundle/javaScriptLint"]
+	path = bundle/javaScriptLint
+	url = https://github.com/joestelmach/javaScriptLint.vim.git
