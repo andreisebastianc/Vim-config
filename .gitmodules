@@ -28,3 +28,6 @@
 [submodule "bundle/The-NERD-tree"]
 	path = bundle/The-NERD-tree
 	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
