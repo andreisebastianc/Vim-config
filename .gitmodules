@@ -52,9 +52,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/garbas/vim-snipmate.git
-[submodule "bundle/commandt"]
-	path = bundle/commandt
-	url = https://github.com/wincent/Command-T.git
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim.git
