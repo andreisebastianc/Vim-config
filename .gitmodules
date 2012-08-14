@@ -67,3 +67,6 @@
 [submodule "bundle/rename2"]
 	path = bundle/rename2
 	url = https://github.com/ReekenX/vim-rename2.git
+[submodule "bundle/vim-backbone"]
+	path = bundle/vim-backbone
+	url = https://github.com/mklabs/vim-backbone.git
