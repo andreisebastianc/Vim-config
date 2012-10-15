@@ -91,3 +91,6 @@
 [submodule "bundle/tomorrow-theme"]
 	path = bundle/tomorrow-theme
 	url = git://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = git://github.com/tomasr/molokai.git
