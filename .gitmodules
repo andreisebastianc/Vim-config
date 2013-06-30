@@ -16,12 +16,9 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git://github.com/garbas/vim-snipmate.git
-[submodule "bundle/minibufexpl"]
-	path = bundle/minibufexpl
-	url = git://github.com/fholgado/minibufexpl.vim.git
-[submodule "bundle/ctrlp"]
-	path = bundle/ctrlp
-	url = git://github.com/kien/ctrlp.vim.git
+#[submodule "bundle/ctrlp"]
+#	path = bundle/ctrlp
+#	url = git://github.com/kien/ctrlp.vim.git
 [submodule "bundle/gist-vim"]
 	path = bundle/gist-vim
 	url = git://github.com/mattn/gist-vim.git
@@ -34,9 +31,6 @@
 [submodule "bundle/rename2"]
 	path = bundle/rename2
 	url = git://github.com/ReekenX/vim-rename2.git
-[submodule "/home/andrei/.vim/bundle/gundo"]
-    path = bundle/gundo
-    url = git://github.com/sjl/gundo.vim.git
 [submodule "bundle/mw-utils"]
 	path = bundle/mw-utils
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
@@ -61,3 +55,12 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = git://github.com/honza/vim-snippets.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = git://github.com/sjl/gundo.vim.git
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
+	url = git@github.com:Shougo/unite.vim.git
+[submodule "bundle/vimproc"]
+	path = bundle/vimproc
+	url = git@github.com:Shougo/vimproc.vim.git
