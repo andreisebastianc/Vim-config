@@ -17,3 +17,6 @@ do
     url=$(git config -f .gitmodules --get "$url_key")
     git submodule add $url $path
 done
+
+cd bundle/vimproc
+make -f make_unix.mak
