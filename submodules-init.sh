@@ -20,3 +20,7 @@ done
 
 cd bundle/vimproc
 make -f make_unix.mak
+
+mkdir bundle/dwm-plugin
+cd bundle/dwm
+mv plugin/* ../dwm-plugin
