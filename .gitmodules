@@ -64,3 +64,6 @@
 [submodule "bundle/vimproc"]
 	path = bundle/vimproc
 	url = git@github.com:Shougo/vimproc.vim.git
+[submodule "bundle/dwm"]
+	path = bundle/dwm
+	url = https://github.com/spolu/dwm.vim.git
