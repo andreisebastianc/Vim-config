@@ -1,36 +1,15 @@
-[submodule "bundle/delmitmate"]
-	path = bundle/delmitmate
-	url = git://github.com/Raimondi/delimitMate.git
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/The-NERD-tree"]
-	path = bundle/The-NERD-tree
-	url = git://github.com/vim-scripts/The-NERD-tree.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git://github.com/tpope/vim-markdown.git
-[submodule "bundle/matchit"]
-	path = bundle/matchit
-	url = git://github.com/tsaleh/vim-matchit.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git://github.com/garbas/vim-snipmate.git
-#[submodule "bundle/ctrlp"]
-#	path = bundle/ctrlp
-#	url = git://github.com/kien/ctrlp.vim.git
-[submodule "bundle/gist-vim"]
-	path = bundle/gist-vim
-	url = git://github.com/mattn/gist-vim.git
-[submodule "bundle/ack"]
-	path = bundle/ack
-	url = git://github.com/mileszs/ack.vim.git
 [submodule "bundle/sparkup"]
 	path = bundle/sparkup
 	url = git://github.com/rstacruz/sparkup.git
-[submodule "bundle/rename2"]
-	path = bundle/rename2
-	url = git://github.com/ReekenX/vim-rename2.git
 [submodule "bundle/mw-utils"]
 	path = bundle/mw-utils
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
@@ -55,9 +34,6 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = git://github.com/honza/vim-snippets.git
-[submodule "bundle/gundo"]
-	path = bundle/gundo
-	url = git://github.com/sjl/gundo.vim.git
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = git@github.com:Shougo/unite.vim.git
