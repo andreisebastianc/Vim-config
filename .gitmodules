@@ -43,3 +43,6 @@
 [submodule "bundle/dwm"]
 	path = bundle/dwm
 	url = https://github.com/spolu/dwm.vim.git
+[submodule "bundle/js-syntax"]
+	path = bundle/js-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
