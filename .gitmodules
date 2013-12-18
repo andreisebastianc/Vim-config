@@ -4,9 +4,9 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git://github.com/tpope/vim-markdown.git
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/ultisnipts"]
+	path = bundle/ultisnipts
+	url = https://github.com/honza/vim-snippets.git
 [submodule "bundle/sparkup"]
 	path = bundle/sparkup
 	url = git://github.com/rstacruz/sparkup.git
@@ -31,9 +31,6 @@
 [submodule "bundle/tomorrow-theme"]
 	path = bundle/tomorrow-theme
 	url = git://github.com/chriskempson/vim-tomorrow-theme.git
-[submodule "bundle/vim-snippets"]
-	path = bundle/vim-snippets
-	url = git://github.com/honza/vim-snippets.git
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = git@github.com:Shougo/unite.vim.git
