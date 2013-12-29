@@ -1,11 +1,11 @@
-[submodule "bundle/solarized"]
-	path = bundle/solarized
-	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git://github.com/tpope/vim-markdown.git
 [submodule "bundle/ultisnipts"]
 	path = bundle/ultisnipts
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
 [submodule "bundle/sparkup"]
 	path = bundle/sparkup
@@ -28,9 +28,6 @@
 [submodule "bundle/numbers"]
 	path = bundle/numbers
 	url = git://github.com/myusuf3/numbers.vim.git
-[submodule "bundle/tomorrow-theme"]
-	path = bundle/tomorrow-theme
-	url = git://github.com/chriskempson/vim-tomorrow-theme.git
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = git@github.com:Shougo/unite.vim.git
@@ -46,3 +43,6 @@
 [submodule "bundle/auto-pairs"]
 	path = bundle/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/tern"]
+	path = bundle/tern
+	url = https://github.com/marijnh/tern_for_vim.git

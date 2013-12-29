@@ -18,9 +18,11 @@ do
     git submodule add $url $path
 done
 
+#additional setup for plugins
+
 cd bundle/vimproc
 make -f make_unix.mak
 
-mkdir bundle/dwm-plugin
-cd bundle/dwm
-mv plugin/* ../dwm-plugin
+cd ..
+cd tern
+npm install
