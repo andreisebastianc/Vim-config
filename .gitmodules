@@ -1,9 +1,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git://github.com/tpope/vim-markdown.git
-[submodule "bundle/ultisnipts"]
-	path = bundle/ultisnipts
-	url = https://github.com/SirVer/ultisnips.git
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
@@ -46,3 +43,6 @@
 [submodule "bundle/tern"]
 	path = bundle/tern
 	url = https://github.com/marijnh/tern_for_vim.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/garbas/vim-snipmate.git
