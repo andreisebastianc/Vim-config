@@ -4,9 +4,6 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
-[submodule "bundle/sparkup"]
-	path = bundle/sparkup
-	url = git://github.com/rstacruz/sparkup.git
 [submodule "bundle/mw-utils"]
 	path = bundle/mw-utils
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
@@ -19,9 +16,6 @@
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = git://github.com/lunaru/vim-less.git
-[submodule "bundle/vim-javascript"]
-	path = bundle/vim-javascript
-	url = git://github.com/pangloss/vim-javascript.git
 [submodule "bundle/numbers"]
 	path = bundle/numbers
 	url = git://github.com/myusuf3/numbers.vim.git
@@ -37,9 +31,9 @@
 [submodule "bundle/js-syntax"]
 	path = bundle/js-syntax
 	url = https://github.com/jelera/vim-javascript-syntax.git
-[submodule "bundle/auto-pairs"]
-	path = bundle/auto-pairs
-	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule "bundle/autoclose"]
+	path = bundle/autoclose
+	url = https://github.com/Townk/vim-autoclose.git
