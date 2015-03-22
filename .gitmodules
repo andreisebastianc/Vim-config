@@ -46,3 +46,9 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/vim-node"]
+	path = bundle/vim-node
+	url = https://github.com/moll/vim-node.git
+[submodule "bundle/vim-node"]
+	path = bundle/vim-notes
+	url = https://github.com/xolox/vim-notes.git
