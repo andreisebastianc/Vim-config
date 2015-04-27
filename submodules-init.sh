@@ -4,11 +4,13 @@ set -e
 
 DIR='bundle'
 
-if [ "$(ls -A $DIR)" ]; then
-    rm -rf bundle/*
-    git rm --cached bundle/*
-    rm -rf .git/modules/bundle
+if [ -d $DIR ]; then
+    rm -rf $DIR
+    git rm -r --cached $DIR
+    rm -rf './.git/modules/'$DIR
 fi
+
+mkdir $DIR
 
 git config -f .gitmodules --get-regexp '^submodule\..*\.path$' |
 while read path_key path
@@ -20,9 +22,5 @@ done
 
 #additional setup for plugins
 
-cd bundle/vimproc
+cd $DIR'/vimproc'
 make -f make_unix.mak
-
-cd ..
-cd tern
-npm install
