@@ -55,3 +55,6 @@
 [submodule "bundle/vim-notes"]
 	path = bundle/vim-notes
 	url = https://github.com/xolox/vim-notes.git
+[submodule "bundle/vim-mustache-handlebars"]
+	path = bundle/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
