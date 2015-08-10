@@ -58,3 +58,6 @@
 [submodule "bundle/tsuquyomi"]
 	path = bundle/tsuquyomi
 	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "bundle/vim-maximizer"]
+	path = bundle/vim-maximizer
+	url = https://github.com/szw/vim-maximizer.git
